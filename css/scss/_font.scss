@@ -1,0 +1,67 @@
+/* 노토산스 (OTF) */
+@font-face {
+  font-family: 'NotoSans';
+  src: url('../font/NotoSansKR-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'NotoSans';
+  src: url('../font/NotoSansKR-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'NotoSans';
+  src: url('../font/NotoSansKR-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* G마켓 산스 (OTF) */
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('../font/GmarketSansMedium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GmarketSans';
+  src: url('../font/GmarketSansBold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Montserrat (TTF) */
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../font/Montserrat-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../font/Montserrat-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../font/Montserrat-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Play (TTF) */
+@font-face {
+  font-family: 'Play';
+  src: url('../font/Play-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Play';
+  src: url('../font/Play-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}

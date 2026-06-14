@@ -1,0 +1,35 @@
+.inner {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+// header
+header {
+    height: 75px;
+    width: 100%;
+    background-color: rgba($color: #fff, $alpha: 0.5);
+    box-shadow: 0 4px 6px rgba($color: #e2e9ff, $alpha: 0.5);
+    .inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 100%;
+    }
+
+    .logo {
+        width: 200px;
+        img {
+            width: 100%;
+        }
+    }
+
+    .nav-list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        font-size: 18px;
+        font-weight: 700;
+    }
+}
